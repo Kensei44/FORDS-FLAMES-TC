@@ -17,15 +17,6 @@ class ViewController: UIViewController {
         
     }
 
-// Hey team. You guys are amazing!
     
 }
 
-//Grace and max are distance runners
-
-
-//grace
-//what the duck
-
-//hi
-// people 
