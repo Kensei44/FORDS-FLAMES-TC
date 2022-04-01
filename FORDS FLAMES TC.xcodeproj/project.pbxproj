@@ -15,6 +15,7 @@
 		2A8F3D4227F4A16500FC5AC8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2A8F3D4027F4A16500FC5AC8 /* LaunchScreen.storyboard */; };
 		2A8F3D4D27F4A16500FC5AC8 /* FORDS_FLAMES_TCTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A8F3D4C27F4A16500FC5AC8 /* FORDS_FLAMES_TCTests.swift */; };
 		2A8F3D5827F4A16500FC5AC8 /* FORDS_FLAMES_TCUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A8F3D5727F4A16500FC5AC8 /* FORDS_FLAMES_TCUITests.swift */; };
+		2A8F3D6927F5ED4A00FC5AC8 /* pageVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A8F3D6827F5ED4A00FC5AC8 /* pageVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		2A8F3D5327F4A16500FC5AC8 /* FORDS FLAMES TCUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "FORDS FLAMES TCUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2A8F3D5727F4A16500FC5AC8 /* FORDS_FLAMES_TCUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FORDS_FLAMES_TCUITests.swift; sourceTree = "<group>"; };
 		2A8F3D5927F4A16500FC5AC8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2A8F3D6827F5ED4A00FC5AC8 /* pageVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = pageVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				2A8F3D3727F4A15B00FC5AC8 /* SceneDelegate.swift */,
 				2A8F3D3927F4A15B00FC5AC8 /* ViewController.swift */,
 				2A8F3D3B27F4A15B00FC5AC8 /* Main.storyboard */,
+				2A8F3D6827F5ED4A00FC5AC8 /* pageVC.swift */,
 				2A8F3D3E27F4A16500FC5AC8 /* Assets.xcassets */,
 				2A8F3D4027F4A16500FC5AC8 /* LaunchScreen.storyboard */,
 				2A8F3D4327F4A16500FC5AC8 /* Info.plist */,
@@ -259,6 +262,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2A8F3D3A27F4A15B00FC5AC8 /* ViewController.swift in Sources */,
+				2A8F3D6927F5ED4A00FC5AC8 /* pageVC.swift in Sources */,
 				2A8F3D3627F4A15B00FC5AC8 /* AppDelegate.swift in Sources */,
 				2A8F3D3827F4A15B00FC5AC8 /* SceneDelegate.swift in Sources */,
 			);
