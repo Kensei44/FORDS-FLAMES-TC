@@ -36,9 +36,6 @@
                                     <color key="titleColor" systemColor="systemRedColor"/>
                                     <color key="titleShadowColor" systemColor="systemPinkColor"/>
                                 </state>
-                                <connections>
-                                    <segue destination="ATY-AY-REC" kind="show" identifier="clubSetup" id="kZo-Cd-QeG"/>
-                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="5h4-os-zdc">
                                 <rect key="frame" x="43" y="408" width="149" height="80"/>
@@ -48,9 +45,6 @@
                                     <color key="titleColor" systemColor="systemRedColor"/>
                                     <color key="titleShadowColor" systemColor="systemPinkColor"/>
                                 </state>
-                                <connections>
-                                    <segue destination="ATY-AY-REC" kind="show" identifier="scheduleSetup" id="TJV-D6-QKg"/>
-                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="NTM-gy-wn7">
                                 <rect key="frame" x="229" y="408" width="149" height="80"/>
@@ -60,9 +54,6 @@
                                     <color key="titleColor" systemColor="systemRedColor"/>
                                     <color key="titleShadowColor" systemColor="systemPinkColor"/>
                                 </state>
-                                <connections>
-                                    <segue destination="ATY-AY-REC" kind="show" identifier="signSetup" id="iFg-P2-o5D"/>
-                                </connections>
                             </button>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Logo" translatesAutoresizingMaskIntoConstraints="NO" id="ewR-fW-SIj">
                                 <rect key="frame" x="26" y="555" width="362" height="223"/>
@@ -128,9 +119,6 @@
             <point key="canvasLocation" x="-23.188405797101453" y="62.946428571428569"/>
         </scene>
     </scenes>
-    <inferredMetricsTieBreakers>
-        <segue reference="iFg-P2-o5D"/>
-    </inferredMetricsTieBreakers>
     <resources>
         <image name="Logo" width="279" height="221"/>
         <systemColor name="labelColor">
