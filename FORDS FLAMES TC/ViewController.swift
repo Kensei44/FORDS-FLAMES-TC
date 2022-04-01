@@ -9,12 +9,16 @@ import UIKit
 
 class ViewController: UIViewController {
 
-    override func viewDidLoad() {
+    override func viewDidLoad()
+    {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
+        
+        
     }
 
-
+// Hey team. You guys are amazing!
+    
 }
 
 //Grace and max are distance runners
@@ -23,3 +27,4 @@ class ViewController: UIViewController {
 
 
 
+//hi
