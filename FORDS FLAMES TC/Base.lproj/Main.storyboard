@@ -98,12 +98,6 @@
                         <color key="backgroundColor" systemColor="systemRedColor"/>
                     </view>
                     <navigationItem key="navigationItem" id="44Y-ZV-iH6"/>
-                    <connections>
-                        <outlet property="ClubBIO" destination="6e6-38-XVI" id="Jmp-qm-Je5"/>
-                        <outlet property="Schedule" destination="5h4-os-zdc" id="myN-aG-7qt"/>
-                        <outlet property="Signup" destination="NTM-gy-wn7" id="gjx-ay-6RS"/>
-                        <outlet property="Team" destination="Cx1-BO-jID" id="V3R-8e-g99"/>
-                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
