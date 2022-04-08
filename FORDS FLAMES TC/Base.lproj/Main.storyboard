@@ -305,6 +305,9 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="15"/>
                                 <state key="normal" title="MEET SCHEDULE"/>
+                                <connections>
+                                    <action selector="TeamReach:" destination="SPX-2q-DTm" eventType="touchUpInside" id="oxo-8G-Yjl"/>
+                                </connections>
                             </button>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="v2M-BX-jq4"/>
@@ -313,6 +316,7 @@
                     <navigationItem key="navigationItem" id="iSH-yM-AJY"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="4Oa-OH-YrJ" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+                <exit id="SPX-2q-DTm" userLabel="Exit" sceneMemberID="exit"/>
             </objects>
             <point key="canvasLocation" x="178.2608695652174" y="876.5625"/>
         </scene>
