@@ -40,4 +40,9 @@ override func didReceiveMemoryWarning() {
 func imagePickerController(_ picker: UIImagePickerController, didFinishPickingMediaWithInfo info: [String : Any]) {
     ImageDisplay.image = info[UIImagePickerControllerOriginalImage] as? UIImage
     dismiss(animated: true, completion: nil)
+    
+    
+}
+    
+    
 }
